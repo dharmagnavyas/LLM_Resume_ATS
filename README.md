@@ -773,7 +773,6 @@ Raw Group Response:
   ]
 }
 ```
-JSON Decode Error: Expecting value: line 1 column 1 (char 0)
 Raw Group Response:
  ```json
 {
